@@ -1,3 +1,6 @@
+
+🧑‍💼 About
+
 This is my personal resume website built using HTML and CSS.
 It highlights my education, skills, projects, certifications, and contact information in a clean and responsive layout.
 
