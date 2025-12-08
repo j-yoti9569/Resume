@@ -3,16 +3,16 @@ It highlights my education, skills, projects, certifications, and contact inform
 
 🎯 Features
 
-.Clean and modern UI
+Clean and modern UI
 
-.Responsive design
+Responsive design
 
-.Easy to customize
+Easy to customize
 
 Sections: About Me, Skills, Projects, Contact
 
 🛠️ Tech Stack
 
-.HTML
+HTML
 
-.CSS
+CSS
